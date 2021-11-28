@@ -1,0 +1,31 @@
+body {background-color: white;}
+.container-fluid{background-color: dark rgb(94, 85, 85);
+}
+.navbar-brand{background-color:rgb(83, 80, 80);color:rgb(243, 235, 235);}
+#navbarNav{background-color: rgb(83, 80, 80);
+color: whitesmoke;   
+display: flex;
+justify-content: flex-end;}
+.cuadrado1 { width: 200px;
+height: 200px;background-color: white;color: black;border-style:solid;border-width: thin;border-color: blue;
+display: inline-block;padding-top:40px;margin-left:500px;margin-top: 100px;margin-right: 5px;margin-bottom: 80px;text-align: center;  }
+.cuadrado2 { width: 200px;
+height: 200px;background-color:white;color: black;border-style:solid;border-width: thin;border-color: green;
+display: inline-block;padding-top:40px;margin-top:100px ;margin-right: 5px;margin-bottom: 80px;text-align: center;}
+.cuadrado3 { width: 200px;
+height: 200px;background-color: white;color: black;border-style:solid;border-width: thin;border-color: orange;
+ display: inline-block;padding-top:40px;margin-top: 100px;margin-right: 5px;margin-bottom:80 px;text-align: center;}   
+.nya{margin-bottom: 25px;}
+.venta{text-align: center;}
+.valor{text-align: center;}
+.pagar{margin-top: 20px;}
+.resumen{margin-bottom: 25px;}
+footer {background-color:darkgrey;
+    color:whitesmoke;
+    margin-top: 10px;
+    border-top: 10px;
+    padding: 20px;
+    display: flex;
+justify-content: center;}
+
+
